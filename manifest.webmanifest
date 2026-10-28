@@ -1,0 +1,56 @@
+{
+  "id": "./",
+  "name": "رُكن الأطفال — نتعلّم ونكتشف",
+  "short_name": "رُكن الأطفال",
+  "description": "مساحة تعليمية عربية سهلة وآمنة للتعلّم واللعب والتواصل.",
+  "lang": "ar-EG",
+  "dir": "rtl",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "any",
+  "background_color": "#f7f6f0",
+  "theme_color": "#2e7561",
+  "categories": [
+    "education",
+    "kids"
+  ],
+  "icons": [
+    {
+      "src": "./icons/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "./icons/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "./icons/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    },
+    {
+      "src": "./icons/apple-touch-icon.png",
+      "sizes": "180x180",
+      "type": "image/png",
+      "purpose": "any"
+    }
+  ],
+  "shortcuts": [
+    {
+      "name": "الألعاب",
+      "short_name": "الألعاب",
+      "url": "./index.html#الألعاب"
+    },
+    {
+      "name": "الحكايات",
+      "short_name": "الحكايات",
+      "url": "./index.html#الحكايات"
+    }
+  ]
+}
