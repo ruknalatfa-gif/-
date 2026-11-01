@@ -1,6 +1,6 @@
 /* رُكن الأطفال — service worker for safe offline use */
 const CACHE_PREFIX = 'rukn-alatfal-pwa-';
-const CACHE_NAME = CACHE_PREFIX + 'v16';
+const CACHE_NAME = CACHE_PREFIX + 'v17';
 const BASE = self.registration.scope;
 const ROOT_URL = new URL('./', BASE).href;
 const APP_URL = new URL('index.html', BASE).href;
